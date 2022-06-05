@@ -11,19 +11,19 @@
 ``` ```
 | Titulo | Módulo Correspondente | Conteúdo |
 | :------ | :------ | :------: |
-| modulo-i | [Módulo I] | Conteúdo de Abertura |
-| modulo-ii | [Módulo II] | HTML/CSS3/JS |
-| modulo-iii | [Módulo III] | Angular |
-| modulo-iv | [Módulo IV] | JAVA |
-| modulo-v | [Módulo V] | Spring Framework |
-| certificados | [Todos os Módulos] | Certificados do Bootcamp |
+| [modulo-i] | Módulo I | Conteúdo de Abertura |
+| [modulo-ii] | Módulo II | HTML/CSS3/JS |
+| [modulo-iii] | Módulo III | Angular |
+| [modulo-iv] | Módulo IV | JAVA |
+| [modulo-v] | Módulo V | Spring Framework |
+| [certificados] | Todos os Módulos | Certificados do Bootcamp |
 
-[Módulo I]: <https://github.com/joemccann/dillinger>
-[Módulo II]: <https://github.com/joemccann/dillinger.git>
-[Módulo III]: <http://daringfireball.net>
-[Módulo IV]: <http://daringfireball.net/projects/markdown/>
-[Módulo V]: <https://github.com/markdown-it/markdown-it>
-[Todos os Módulos]: <https://github.com/markdown-it/markdown-it>
+[modulo-i]: <https://github.com/jlsjohn/dio-santander-bootcamp/tree/main/modulo-i>
+[modulo-ii]: <https://github.com/jlsjohn/dio-santander-bootcamp/tree/main/modulo-ii>
+[modulo-iii]: <https://github.com/jlsjohn/dio-santander-bootcamp/tree/main/modulo-iii>
+[modulo-iv]: <https://github.com/jlsjohn/dio-santander-bootcamp/tree/main/modulo-iv>
+[modulo-v]: <https://github.com/jlsjohn/dio-santander-bootcamp/tree/main/modulo-v>
+[certificados]: <https://github.com/jlsjohn/dio-santander-bootcamp/tree/main/certificados>
 
 ## Detalhes dos Módulos e status
 | Módulos | Status | Atividade | Duração | Título da atividade |
